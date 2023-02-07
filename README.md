@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Ayoniqq
-- 👀 I’m interested in solving problems by utilizing user friendly approaches to create web interfaces.
-- 🌱 I’m a MERN stack developer: { MongoDB, ExpressJs, ReactJs, NodeJs}
-- 💞️ I’m looking to collaborate on Blockchain Projects, Web Development Projects and any Project that is sure to test/improve my skill-set ........... 
-- 📫 How to reach me: Email-ayorindeadeshina@gmail.com || Call/Sms/Whatsapp- +2347067953003 || LinkedIn: https://linkedin.com/in/ayorinde-adeshina ......
+- 👀 I’m interested in solving problems by utilizing modern technologies to make life easier for others.
+- 💻 My current tech stack includes NodeJs, ExpressJs & MongoDB.
+- 🌱 I’m actively learning ReactJS in other to complete the MERN stack{ MongoDB, ExpressJs, ReactJs, NodeJs}
+- 💞️ I’m looking to collaborate to work on World-changing projects that would test & improve my skill-set and be of great value to the society at large........... 
+- 📫 How to reach me: Email- ayorindeadeshina@gmail.com || Call/Sms/Whatsapp- +2347067953003 || LinkedIn: https://linkedin.com/in/ayorinde-adeshina ......
 
 <!---
 Ayoniqq/Ayoniqq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
