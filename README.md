@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Ayoniqq<br>- 👀 I’m interested in solving problems by utilizing modern technologies to make life easier for others.<br>- 💻 My current tech stack includes NodeJs, ExpressJs & MongoDB.<br>- 🌱 I’m actively learning ReactJS in other to complete the MERN stack{ MongoDB, ExpressJs, ReactJs, NodeJs}<br>- 💞️ I’m looking to collaborate to work on World-changing projects that would test & improve my skill-set and be of great value to the society at large........... <br>- 📫 How to reach me: Email- ayorindeadeshina@gmail.com || Call/Sms/Whatsapp- +2347067953003 || LinkedIn: https://linkedin.com/in/ayorinde-adeshina ......<br>
+- 👋 Hi, I’m @Ayoniqq<br>- 👀 I’m interested in solving problems by utilizing modern technologies to make life easier for others.<br>- 💻 My current tech stack includes NodeJs, ExpressJs & MongoDB.<br>- 🌱 I’m actively learning ReactJS in order to complete the MERN stack{ MongoDB, ExpressJs, ReactJs, NodeJs}<br>- 💞️ I’m looking to collaborate to work on World-changing projects that would test & improve my skill-set and be of great value to the society at large........... <br>- 📫 How to reach me: Email- ayorindeadeshina@gmail.com || Call/Sms/Whatsapp- +2347067953003 || LinkedIn: https://linkedin.com/in/ayorinde-adeshina ......<br>
 
 
 ## 🌐 Socials:
